@@ -1,3 +1,2 @@
-import os,time,platform
-os.system
-elif import fire()
+import fire
+fire.____Main___()
